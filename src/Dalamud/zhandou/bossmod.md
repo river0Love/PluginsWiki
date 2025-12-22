@@ -1,5 +1,5 @@
 ---
-title: 雷达画图BossMod
+title: 雷达画图BossMod Reborn
 icon: /assets/icon/129.png
 order: 1
 category:
@@ -7,14 +7,14 @@ category:
 tag:
   - 画图
   - 自动化
-  - 自动循环
+  - 自动技能循环
 ---
 
 ## BossMod Reborn
 
 ### 插件信息
 
-![vnavmesh =100x](/assets/icon/129.png)
+![BossMod Reborn =100x](/assets/icon/129.png)
 
 插件名称：BossMod Reborn
 简述：大脑按摩用的(在线安装Only)
@@ -52,9 +52,9 @@ https://github.com/FFXIV-CombatReborn/CombatRebornRepo/raw/main/pluginmaster.jso
 ::: tabs
 
 @tab 中文
-
+https://github.com/LiangYuxuan/dalamud-plugin-cn-fetcher/raw/master/pluginmaster_gh.json
 
 @tab 英文
-
+https://puni.sh/api/repository/veyn
 
 :::
