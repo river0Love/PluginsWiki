@@ -2,6 +2,8 @@
 title: 棍哥名言
 index: false
 ---
+原文链接：[https://github.com/EobOrz/FFxivFuckGreenPlayer](https://github.com/EobOrz/FFxivFuckGreenPlayer)
+
 ACT 不算开？卫月不算开？哟呵，那些个自诩只开不影响游戏平衡的插件的绿色玩家
 还有号称只捣鼓游戏模组的黄色玩家，可真是太 “可爱” 啦！您瞧瞧，他们一边大义凛然地宣称自己的所作所为毫无不妥
 一边堂而皇之地利用着这些所谓 “不影响平衡” 的东西，在游戏里横冲直撞，这脸皮厚度，简直比城墙拐弯还厚呐。
