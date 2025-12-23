@@ -1,5 +1,5 @@
 ---
-title: LazyLoot
+title: ROll点LazyLoot
 order: 1
 icon: /assets/icon/21.png
 category:
