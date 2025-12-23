@@ -1,6 +1,7 @@
 ---
 title: 前言
 icon: circle-info
+home: true
 order: 1
 ---
 

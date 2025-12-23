@@ -1,6 +1,6 @@
 ---
 title: 音视编辑VFXEditor/CN
-icon: /assets/icon/128.png
+icon: /assets/icon/11.png
 order: 1
 category:
   - 工具
@@ -11,7 +11,7 @@ tag:
 
 ## 插件信息
 
-![VFXEditorCN =100x](/assets/icon/128.png)
+![VFXEditorCN =100x](/assets/icon/11.png)
 
 插件名称：VFXEditorCN
 简述：游戏内视觉效果、动画与音频编辑插件
