@@ -1,5 +1,5 @@
 ---
-title: 月球采集Ice's Cosmic Exploration
+title: 月球采集Ice
 icon: /assets/icon/4.png
 order: 1
 category:

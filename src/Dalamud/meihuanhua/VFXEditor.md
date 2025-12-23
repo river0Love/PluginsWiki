@@ -1,27 +1,27 @@
 ---
-title: 自动寻路vnavmesh
+title: 音视编辑VFXEditor/CN
 icon: /assets/icon/128.png
 order: 1
 category:
   - 工具
 tag:
-  - 寻路
-  - 自动化
+  - 动画
+  - 音频
 ---
 
 ## 插件信息
 
-![vnavmesh =100x](/assets/icon/128.png)
+![VFXEditorCN =100x](/assets/icon/128.png)
 
-插件名称：vnavmesh 
-简述：行遍千里
-作者：[veyn](https://github.com/awgil), xan_0
-项目地址：https://github.com/awgil/ffxiv_navmesh
+插件名称：VFXEditorCN
+简述：游戏内视觉效果、动画与音频编辑插件
+作者：[ocealot](https://github.com/0ceal0t)
+项目地址：https://github.com/0ceal0t/Dalamud-VFXEditor
 汉化&适配：[AtmoOmen](https://github.com/AtmoOmen)
 
 ## 介绍
 
-vnavmesh是一款用于自动寻路的插件，经常用于其他插件调用
+VFXEditorCN是一款游戏内视觉效果、动画与音频编辑插件插件
 
 ## 裤链
 
@@ -33,8 +33,6 @@ vnavmesh是一款用于自动寻路的插件，经常用于其他插件调用
 https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json
 
 @tab 英文
-https://puni.sh/api/repository/veyn
-https://github.com/LiangYuxuan/dalamud-plugin-cn-fetcher/raw/master/pluginmaster_gh.json
 
 :::
 
