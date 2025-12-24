@@ -15,7 +15,7 @@ tag:
 
 插件名称：NyaDraw
 简述：下一代小画家
-作者：NiGuangOwO, Small_Miao (moewcorp)
+作者：[NiGuangOwO](https://github.com/NiGuangOwO), Small_Miao (moewcorp)
 DC：https://discord.gg/cjcSaEJW3q
 
 ## 介绍
