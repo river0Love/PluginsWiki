@@ -7,8 +7,8 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "红玩知识库",
-      description: "红玩知识库 的文档演示",
+      title: "零的知识库",
+      description: "零的知识库 的文档演示",
     },
   },
 
