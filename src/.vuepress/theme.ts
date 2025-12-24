@@ -147,6 +147,26 @@ export default hopeTheme({
           fieldName === 'id' ? [text] : cut(text, true),
       }
     },
+    notice: [
+      {
+        path: "/",
+        title: "通知",
+        content: "网站处于内部测试，请勿分享",
+        actions: [
+          { 
+            text: "确定",
+            type: "primary",
+           }, 
+          {
+            text: "取消",
+            link: "https://www.ask0.cc/",           
+          },
+                
+        ],
+        fullscreen: true ,
+        confirm: true,
+      },
+    ],
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
     //   favicon: "/favicon.ico",
