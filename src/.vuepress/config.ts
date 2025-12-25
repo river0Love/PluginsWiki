@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { baiduAnalyticsPlugin } from '@vuepress/plugin-baidu-analytics'
 import { clarityAnalyticsPlugin } from '@vuepress/plugin-clarity-analytics'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
 export default defineUserConfig({
   base: process.env.BASE_PATH  || "/PluginsWiki/",
@@ -22,6 +23,12 @@ export default defineUserConfig({
     }),
     clarityAnalyticsPlugin({
       id:"ur1f2nltbv",
+    }),
+     docsearchPlugin({
+      appId: '3PROY3UXS0',
+      apiKey: '348c0ba1ede4821f2c04f13aaf427fe1',
+      indices: ['PluginsWiki'],
+      placeholder: '搜索插件',
     }),
   ],
 

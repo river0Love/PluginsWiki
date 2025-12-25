@@ -138,11 +138,12 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
-    docsearch: {
-      appId: '3PROY3UXS0',
-      apiKey: '348c0ba1ede4821f2c04f13aaf427fe1',
-      placeholder: '搜索插件',
-    },
+    // docsearch: {
+    //   appId: '3PROY3UXS0',
+    //   apiKey: '48c0ba1ede4821f2c04f13aaf427fe1',
+    //   indices: ['PluginsWiki'],
+    //   placeholder: '搜索插件',
+    // },
     
     notice: [
       {
