@@ -1,5 +1,5 @@
 ---
-title: 自动寻路Auto Hook
+title: 钓鱼Auto Hook
 icon: /assets/icon/AutoHook.png
 order: 1
 category:
