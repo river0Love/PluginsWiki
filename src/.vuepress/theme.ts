@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
 
-import { cut } from 'jieba-wasm';
+// import { cut } from 'jieba-wasm';
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
@@ -27,7 +27,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: '为您提供最全面的秋日狂想曲插件资源<br><script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8" src="https://v6-widget.51.la/v6/3OU0hYAW1rTBfxDe/quote.js?theme=0&f=12&display=0,0,1,1,1,1,1,0"></script>',
   displayFooter: true,
 
   // 加密配置
@@ -138,15 +138,13 @@ export default hopeTheme({
       prefix: "fa6-solid:",
     },
 
-    slimsearch: {
-      
-      indexContent: true,
-      indexOptions: {
-        // 使用 nodejs-jieba 进行分词
-        tokenize: (text, fieldName) =>
-          fieldName === 'id' ? [text] : cut(text, true),
-      }
-    },
+    // docsearch: {
+    //   appId: '3PROY3UXS0',
+    //   apiKey: '48c0ba1ede4821f2c04f13aaf427fe1',
+    //   indices: ['PluginsWiki'],
+    //   placeholder: '搜索插件',
+    // },
+    
     notice: [
       {
         path: "/",
