@@ -28,7 +28,7 @@ VFXEditorCN是一款游戏内视觉效果、动画与音频编辑插件
 ::: tabs
 
 @tab 中文
-加速链接：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json
 

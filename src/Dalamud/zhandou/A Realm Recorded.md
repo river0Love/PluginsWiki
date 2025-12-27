@@ -27,7 +27,7 @@ A Realm Recorded是一款允许您使用副本记录器的插件。精简版相�
 ::: tabs
 
 @tab 中文
-加速链接：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 @tab 英文
 

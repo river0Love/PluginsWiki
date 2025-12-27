@@ -29,7 +29,7 @@ GatherBuddyReborn是一款自动采集插件。
 ::: tabs
 
 @tab 中文
-加速链接：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json
 
