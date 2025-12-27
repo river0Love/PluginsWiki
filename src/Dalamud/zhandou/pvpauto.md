@@ -16,6 +16,7 @@ tag:
 简述：PVP自动化战场
 作者：[Errer](https://github.com/Errerer)
 项目地址：
+Discord: https://discord.gg/v5EqEt9vyB 
 
 ## 介绍
 

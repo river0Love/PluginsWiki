@@ -26,7 +26,7 @@ Currency Tracker是一款记录你各种的货币收支情况的插件。
 ::: tabs
 
 @tab 中文
-加速链接：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 
 :::

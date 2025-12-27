@@ -26,7 +26,7 @@ CharacterSyncXs是一款将你的主角色数据安全地同步到其他角色�
 ::: tabs
 
 @tab 中文
-加速链接：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 
 :::

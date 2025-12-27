@@ -16,6 +16,7 @@ tag:
 简述：铭牌小偷
 作者：Fragile,Errer(维护）
 项目地址：
+Discord: https://discord.gg/v5EqEt9vyB 
 
 ## 介绍
 

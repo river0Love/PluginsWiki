@@ -26,7 +26,7 @@ Untarnished Heart是一款	自动化 T 职副本场次成就刷取工具插件�
 ::: tabs
 
 @tab 中文
-加速链接：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster-cn.json
+Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 
 :::
