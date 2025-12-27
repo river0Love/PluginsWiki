@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![HaselDebug=100x](/assets/icon/default.webp)
+![HaselDebug =100x](/assets/icon/default.webp)
 
 插件名称：HaselDebug
 简述：开发者用，各种调试工具 
