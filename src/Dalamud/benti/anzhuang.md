@@ -11,7 +11,7 @@ order: 2
 
 #### 1.下载
 
-从[此处](/PluginsWiki/Dalamud/benti/jieshao.html#xivlauncher分支)选择并下载一个适合你的卫月版本
+从[此处](/Dalamud/benti/jieshao.html#xivlauncher分支)选择并下载一个适合你的卫月版本
 
 ::: tip
 在github下载时选择带有win字样的下载，如：

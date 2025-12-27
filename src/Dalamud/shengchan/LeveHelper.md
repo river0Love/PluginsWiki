@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![LeveHelper=100x](/assets/icon/16.png)
+![LeveHelper =100x](/assets/icon/16.png)
 
 插件名称：LeveHelper
 简述：理符工具

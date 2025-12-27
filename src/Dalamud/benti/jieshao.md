@@ -17,7 +17,7 @@ XIVLauncher是登录器。FF14 原版启动器已经很老了，这导致它运�
 
 卫月（Dalamuud）是附加在xivlauncher上的插件开发平台，其中使用的第三方插件均违反最终幻想14的服务条例，经核实有封号的风险，请谨慎使用。详情请看：
 
-[xivlauncher、dalamud-和-dalamud-插件安全吗](/PluginsWiki/Dalamud/benti/xl_troubleshooting.html#问-xivlauncher、dalamud-和-dalamud-插件安全吗)
+[xivlauncher、dalamud-和-dalamud-插件安全吗](/Dalamud/benti/xl_troubleshooting.html#问-xivlauncher、dalamud-和-dalamud-插件安全吗)
 
 ## XIVLauncher分支
 

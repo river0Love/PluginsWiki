@@ -1,5 +1,5 @@
 ---
-title: 死亡状态统计Death Recap CN"
+title: 死亡状态统计Death Recap CN
 icon: /assets/icon/DeathRecap.png
 order: 1
 category:

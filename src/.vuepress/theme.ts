@@ -131,7 +131,7 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard", "BiliBili",],
     },
 
     icon: {
@@ -149,7 +149,7 @@ export default hopeTheme({
       {
         path: "/",
         title: "通知",
-        content: "网站处于内部测试，请勿分享",
+        content: "网站处于内部测试",
         actions: [
           { 
             text: "确定",
@@ -161,7 +161,7 @@ export default hopeTheme({
           },
                 
         ],
-        fullscreen: true ,
+        // fullscreen: true ,
         confirm: true,
       },
     ],
