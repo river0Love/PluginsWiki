@@ -28,9 +28,14 @@ tag:
 @tab 中文
 加速链接：https://plogon.meowrs.com/cn
 原始链接：https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
+https://raw.githubusercontent.com/zhouhuichen741/dalamud-plugins/master/repo.json
 
 @tab 英文
 
+https://github.com/NightmareXIV/MyDalamudPlugins/raw/main/pluginmaster.json
+https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/pluginmaster.json
+https://plogon.meowrs.com/cn
+https://raw.githubusercontent.com/meowzwr/dalamudplugin/main/repo.json
 
 :::
 
