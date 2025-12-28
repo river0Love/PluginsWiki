@@ -1,6 +1,6 @@
 ---
 title: 快速传送Divination.AetheryteLinkInChat
-icon: /assets/icon/default.webp
+icon: /assets/icon/AetheryteLinkInChat.png
 order: 1
 category:
   - 战斗
@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![Divination.AetheryteLinkInChat =100x](/assets/icon/default.webp)
+![Divination.AetheryteLinkInChat =100x](/assets/icon/AetheryteLinkInChat.png)
 
 插件名称：Divination.AetheryteLinkInChat
 简述：快速传送以进行怪物狩猎和寻宝！

@@ -4,7 +4,8 @@ order: 2
 ---
 
 ::: warning
-默认保持github等连通性正常，大陆用户自行解决，除非接到广告
+默认保持github等连通性正常，大陆用户自行解决，除非接到广告。
+或者可以使用诸如[Watt Toolkit](https://steampp.net/)等加速github。
 :::
 ## 安装
 ### Windows

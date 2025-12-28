@@ -27,6 +27,8 @@ tag:
 
 @tab 中文
 https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json
+原始链接（推荐）：https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json
+国内加速：https://gh.risona.top/pluginmaster.json
 
 :::
 

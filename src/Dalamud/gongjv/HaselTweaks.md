@@ -1,6 +1,6 @@
 ---
 title: 工具合集HaselTweaks
-icon: /assets/icon/94.png
+icon: /assets/icon/HaselTweaks.png
 order: 1
 category:
   - 工具
@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![HaselTweaks =100x](/assets/icon/94.png)
+![HaselTweaks =100x](/assets/icon/HaselTweaks.png)
 
 插件名称：HaselTweaks
 简述：一系列生活质量调整

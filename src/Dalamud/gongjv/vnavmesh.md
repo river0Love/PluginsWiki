@@ -31,6 +31,7 @@ vnavmesh是一款用于自动寻路的插件，经常用于其他插件调用
 Cloudflare 加速：https://gh.atmoomen.top/DalamudPlugins/main/pluginmaster.json
 原始链接：https://raw.githubusercontent.com/AtmoOmen/DalamudPlugins/main/pluginmaster.json
 https://github.com/AtmoOmen/DalamudPlugins/raw/main/pluginmaster.json
+台灣/繁體/TC users：請暫時先用這個鏈接，非繁中服请勿添加 https://raw.githubusercontent.com/decorwdyun/DalamudPlugins/main/pluginmaster-tw.json
 
 @tab 英文
 https://puni.sh/api/repository/veyn
