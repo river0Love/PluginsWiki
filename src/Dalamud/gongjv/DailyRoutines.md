@@ -1,25 +1,26 @@
 ---
-title: 记录货币Currency Tracker
-icon: /assets/icon/9.png
+title: 工具合集Daily Routines
+icon: /assets/icon/DailyRoutines.png
 order: 1
 category:
   - 工具
 tag:
-  - 货币统计
+  - 插件集合
 ---
 
 ## 插件信息
 
-![Currency Tracker =100x](/assets/icon/9.png)
+![Daily Routines =100x](/assets/icon/DailyRoutines.png)
 
-插件名称：Currency Tracker
-简述：记录你各种的货币收支情况
+插件名称：Daily Routines
+简述：	一些自动化小工具合集
 作者：[AtmoOmen](https://github.com/AtmoOmen)
-项目地址：https://github.com/AtmoOmen/CurrencyTracker
+项目地址：https://github.com/Dalamud-DailyRoutines
+Discord：https://discord.gg/MDvv8Ejntw
 
 ## 介绍
 
-Currency Tracker是一款记录你各种的货币收支情况的插件。
+Daily Routines是一款工具插件集合。
 
 ## 裤链
 

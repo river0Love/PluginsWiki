@@ -1,6 +1,6 @@
 ---
 title: 画图Kodakku Assist 
-icon: /assets/icon/7.png
+icon: /assets/icon/KodakkuAssist.png
 order: 1
 category:
   - 战斗
@@ -11,7 +11,7 @@ tag:
 
 ## 插件信息
 
-![Kodakku Assist =100x](/assets/icon/7.png)
+![Kodakku Assist =100x](/assets/icon/KodakkuAssist.png)
 
 插件名称：Kodakku Assist 
 简述：一个玩具

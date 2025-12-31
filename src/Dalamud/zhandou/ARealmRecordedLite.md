@@ -1,6 +1,6 @@
 ---
 title: 副本回放A Realm Recorded
-icon: /assets/icon/138.png
+icon: /assets/icon/ARealmRecordedLite.png
 order: 1
 category:
   - 战斗
@@ -11,7 +11,7 @@ tag:
 
 ### 插件信息
 
-![A Realm Recorded =100x](/assets/icon/138.png)
+![A Realm Recorded =100x](/assets/icon/ARealmRecordedLite.png)
 
 插件名称：A Realm Recorded
 简述：允许您使用副本记录器

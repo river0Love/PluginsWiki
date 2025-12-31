@@ -1,5 +1,5 @@
 ---
-title: 额外职业量谱RezPls 
+title: 额外职业量谱JobBars
 icon: /assets/icon/JobBars.png
 order: 1
 category:
@@ -10,9 +10,9 @@ tag:
 
 ## 插件信息
 
-![RezPls CN" =100x](/assets/icon/JobBars.png)
+![JobBars =100x](/assets/icon/JobBars.png)
 
-插件名称：RezPls CN"
+插件名称：JobBars
 简述：
 作者：ocealot, Nag0mi
 项目地址：https://github.com/0ceal0t/JobBars/
