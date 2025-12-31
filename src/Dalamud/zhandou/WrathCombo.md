@@ -1,6 +1,6 @@
 ---
 title: 自动输出Wrath Combo
-icon: /assets/icon/15.png
+icon: /assets/icon/WrathCombo.png
 order: 1
 category:
   - 战斗
@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![Wrath Combo =100x](/assets/icon/15.png)
+![Wrath Combo =100x](/assets/icon/WrathCombo.png)
 
 插件名称：Wrath Combo
 简述：将连击与互斥技能整合至单个按键——功能远不止于此。

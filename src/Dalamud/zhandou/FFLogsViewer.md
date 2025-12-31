@@ -1,7 +1,7 @@
 ---
 title: 出警FF Logs Viewer (CN)
 order: 1
-icon: /assets/icon/66.png
+icon: /assets/icon/FFLogsViewer.png
 category:
   - 战斗
 tag:
@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![FF Logs Viewer (CN) =100x](/assets/icon/3.png)
+![FF Logs Viewer (CN) =100x](/assets/icon/FFLogsViewer.png)
 
 插件名称：FF Logs Viewer (CN)
 简述：在游戏中查看FF Logs排名百分比。

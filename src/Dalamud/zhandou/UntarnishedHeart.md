@@ -1,6 +1,6 @@
 ---
 title: 自动T成就Untarnished Heart
-icon: /assets/icon/46.png
+icon: /assets/icon/UntarnishedHeart.png
 order: 1
 category:
   - 战斗
@@ -10,7 +10,7 @@ tag:
 
 ## 插件信息
 
-![Untarnished Heart =100x](/assets/icon/46.png)
+![Untarnished Heart =100x](/assets/icon/UntarnishedHeart.png)
 
 插件名称：Untarnished Heart
 简述：自动化 T 职副本场次成就刷取工具

@@ -1,6 +1,6 @@
 ---
 title: 自动技能循环Rotation Solver Reborn
-icon: /assets/icon/98.png
+icon: /assets/icon/RotationSolver.png
 order: 1
 category:
   - 战斗
@@ -13,7 +13,7 @@ tag:
 
 ### 插件信息
 
-![Rotation Solver Reborn =100x](/assets/icon/98.png)
+![Rotation Solver Reborn =100x](/assets/icon/RotationSolver.png)
 
 插件名称：Rotation Solver Reborn
 简述：RSR 自动输出/循环，逐帧分析战斗情况，并找出下一帧最适合使用的技能。
