@@ -12,7 +12,7 @@ tag:
 
 ![Ice's Cosmic Exploration =100x](/assets/icon/4.png)
 
-插件名称：Ice's Cosmic Exploration
+插件名称：Ice's Cosmic Exploration(Ices Cosmic Exploration )
 简述：大家都需要的采集伙伴
 作者：Ice
 汉化&适配：[RedAsteroid](https://github.com/RedAsteroid/HuntTrainAssistant/commits?author=RedAsteroid)

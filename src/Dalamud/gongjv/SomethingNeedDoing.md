@@ -29,6 +29,8 @@ tag:
 原始链接（推荐）：https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json
 国内加速：https://gh.risona.top/pluginmaster.json
 
+https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json
+
 @tab 英文
 https://github.com/TCrazylion/MyDalamudPlugins/raw/main/myrepo.json
 
