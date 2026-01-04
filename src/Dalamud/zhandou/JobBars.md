@@ -14,7 +14,8 @@ tag:
 
 插件名称：JobBars
 简述：
-作者：ocealot, Nag0mi
+作者：ocealot
+本地化&适配：Nag0mi 
 项目地址：https://github.com/0ceal0t/JobBars/
 
 ## 介绍
@@ -29,7 +30,7 @@ tag:
 https://raw.githubusercontent.com/eroubue/DalamudPlugins/main/pluginmaster.json
 原始链接（推荐）：https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json
 国内加速：https://gh.risona.top/pluginmaster.json
-
+https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json
 :::
 
 ## 使用方法
